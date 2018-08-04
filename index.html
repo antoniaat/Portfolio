@@ -28,6 +28,16 @@
     <link rel="icon" type="image/png" sizes="16x16" href="favicon_package/favicon-16x16.png">
     <link rel="manifest" href="favicon_package/site.webmanifest">
     <link rel="mask-icon" href="favicon_package/safari-pinned-tab.svg" color="#5bbad5">
+
+    <!--jQuery-->
+    <script src="vendor/jquery/jquery.min.js"></script>
+
+    <!--Custom CSS-->
+    <link rel="stylesheet" href="css/style.css">
+
+
+    <link rel="stylesheet" type="text/css" href="vendor/HoverEffectIdeas/css/normalize.css"/>
+    <link rel="stylesheet" type="text/css" href="vendor/HoverEffectIdeas/css/set1.css"/>
 </head>
 
 <body id="page-top">
@@ -640,15 +650,13 @@
                 <li>
                     <i class="fa-li fa fa-trophy text-warning"></i>
                     <a href="https://www.dropbox.com/s/s9lfmso75p866iw/IT%20Innovation%20-%20What%20is%20it%20and%20how%20to%20get%20more%20of%20it.pdf?dl=0"
-                       target="_blank">
-                        IT Innovation: What It Is and How to Get More of It - Pluralsight - REP ID 4127 </a>
+                       target="_blank"> IT Innovation: What It Is and How to Get More of It - Pluralsight - REP ID
+                        4127 </a>
                 </li>
                 <li>
                     <i class="fa-li fa fa-trophy text-warning"></i>
                     <a href="https://www.dropbox.com/s/m6mtohsr2sm7e03/Functional%20Programming%20With%20C%23.pdf?dl=0"
-                       target="_blank">
-                        Functional Programming With C#
-                    </a>
+                       target="_blank">Functional Programming With C# </a>
                 </li>
                 <li>
                     <i class="fa-li fa fa-trophy text-warning"></i>
@@ -660,32 +668,76 @@
     </section>
 
     <!--PROJECTS-->
-    <!--<section class="resume-section p-3 p-lg-5 d-flex flex-column" id="projects">-->
-    <!--<div class="my-auto">-->
-    <!--<h2 class="mb-5">Projects</h2>-->
-    <!--<h3>Websites</h3>-->
-    <!--<br>-->
-    <!--<div class="resume-item d-flex flex-column flex-md-row">-->
-    <!--<br><br>-->
+    <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="projects">
+        <div class="col-8 m-auto h-25">
 
-    <!--<article class="projects-articles">-->
-    <!--<div class="portfolio-container">-->
-    <!--<img src="img/youth-business-club.png" alt="youth-business-club" class="portfolio-image">-->
-    <!--<div class="portfolio-middle">-->
-    <!--<div class="visit-website">-->
-    <!--VISIT WEBSITE-->
-    <!--</div>-->
-    <!--</div>-->
-    <!--</div>-->
-    <!--</article>-->
-    <!--</div>-->
-    <!--</div>-->
+            <!--Carousel slides-->
+            <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img class="d-block w-100" src="img/portfolio/ybc-bulgaria.png" alt="First slide">
+                        <!--<div class="carousel-caption d-md-block">-->
+                        <!--<h5>Youth Business Club</h5>-->
+                        <!--<a href="http://www.ybcbulgaria.com"></a>-->
+                        <!--</div>-->
+                    </div>
+                    <div class="carousel-item">
+                        <img class="d-block w-100" src="img/profile.JPG" alt="Second slide">
+                    </div>
+                    <div class="carousel-item">
+                        <img class="d-block w-100" src="img/profile.JPG" alt="Third slide">
+                    </div>
+                </div>
+                <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
 
-    <!--</section>-->
+        </div>
+    </section>
+
+    <div class="grid">
+
+        <div class="row">
+            <figure class="effect-ruby">
+                <img src="img/profile.JPG" alt="img14"/>
+                <figcaption class="text-white">
+                    <h2 class="text-white">Youth <span>BUSINESS</span> CLUB</h2>
+                    <p>Ruby did not need any help. Everybody knew that.</p>
+                    <a href="#">View more</a>
+                </figcaption>
+            </figure>
+
+            <figure class="effect-ruby">
+                <img src="img/profile.JPG" alt="img14"/>
+                <figcaption class="text-white">
+                    <h2 class="text-white">Youth <span>BUSINESS</span> CLUB</h2>
+                    <p>Ruby did not need any help. Everybody knew that.</p>
+                    <a href="#">View more</a>
+                </figcaption>
+            </figure>
+
+            <figure class="effect-ruby">
+                <img src="img/profile.JPG" alt="img14"/>
+                <figcaption class="text-white">
+                    <h2 class="text-white">Youth <span>BUSINESS</span> CLUB</h2>
+                    <p>Ruby did not need any help. Everybody knew that.</p>
+                    <a href="#">View more</a>
+                </figcaption>
+            </figure>
+        </div>
+
+    </div>
+
 </div>
 
 <!-- Bootstrap core JavaScript -->
-<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
 <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 <!-- Plugin JavaScript -->
@@ -693,7 +745,6 @@
 
 <!-- Custom scripts for this template -->
 <script src="js/resume.min.js"></script>
-
 </body>
 
 </html>
