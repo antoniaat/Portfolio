@@ -1,0 +1,26 @@
+
+$fa-font-path: '../fontawesome/webfonts';
+
+//@import '../fontawesome/scss/fontawesome';
+@import '../fontawesome/scss/brands';
+@import '../fontawesome/scss/regular';
+@import '../fontawesome/scss/solid';
+
+@import 'mixins';
+@import 'responsive';
+@import 'variables';
+@import 'reset';
+@import 'animations';
+@import 'typography';
+@import 'forms';
+@import 'buttons';
+
+@import 'layout';
+@import 'navigation';
+
+@import 'listing';
+
+@import 'site-header';
+@import 'site-footer';
+
+

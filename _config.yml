@@ -1,0 +1,26 @@
+# Site settings
+
+title: Antonia Atanasova
+description: If you love your business as much as I love my job, we're off to a good start!
+
+email: antoniyaat@gmail.com
+baseurl: "/jekyll-theme-lazy" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+github_username: antoniyaat
+
+future: true
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+destination: docs
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - gulpfile.js
+  - docs
+  - node_modules
+  - scss

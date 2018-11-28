@@ -1,0 +1,37 @@
+body {
+	padding-top: 10rem;
+	background: none;
+}
+
+.site-branding {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	position: static;
+
+
+
+	top: 0; left: 0;
+	width: 100%;
+	background: linear-gradient(to bottom, rgba(white,1) 60%, rgba(white,0) 100%); 
+	padding: var(--spacing-site);
+	padding-bottom: 4rem;
+}
+
+.site-title {
+	font-size: 1.8em;
+	padding-bottom: 0.5rem;
+	margin-bottom: 0.5rem;
+	border-bottom: 2px solid #DDD;
+
+	& a {
+		text-decoration: none;
+		color: inherit;
+	}
+}
+
+.site-description {
+	font-style: italic;
+	font-family: serif;
+	font-size: 110%;
+}

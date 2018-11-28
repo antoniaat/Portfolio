@@ -1,12 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
-</head>
-<body>
-    <h1>hello</h1>
-</body>
-</html>
+---
+layout: site
+---
+
+<!--<a href="#" class="button">Hi, There ...</a>-->
+<!--<a href="#" class="button purple">Hi, There ...</a>-->
+<!--<a href="#" class="button deep-purple">Hi, There ...</a>-->
+<!--<a href="#" class="button yellow">Hi, There ...</a>-->
+
+<ul class="listing posts">
+    {% for post in site.posts %}
+    <li>
+        <a href="{{ site.baseurl }}{{ post.url }}">
+            <span class="title">{{ post.title }}</span>
+            <span class="date">{{ post.date | date_to_string }}</span>
+        </a>
+    </li>
+    {% endfor %}
+</ul>

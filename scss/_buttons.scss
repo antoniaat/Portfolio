@@ -1,0 +1,40 @@
+$btnColors: (
+	"purple": #9C27B0,
+	"deep-purple": #673AB7,
+	"indigo": #3F51B5,
+	"brown": #795548,
+	"yellow": #FFEB3B
+);
+
+@function btn-text-color($bgColor) {
+	@if (lightness($bgColor) > 50) {
+		@return #000; // Lighter backgorund, return dark color
+	} @else {
+		@return #fff; // Darker background, return light color
+	}
+}
+
+.button {
+	display: inline-block;
+	padding: 1em 1.5em;
+	border-radius: 0.4em;
+	font-weight: bold;
+	margin: 0 2rem 2rem 0;
+	background-color: #EEE;
+	text-decoration: none;
+	border: 2px solid #FFF;
+	color: #333;
+	box-shadow: 0 0 1.5rem 0.1rem rgba(black, 0.2);
+}
+
+@each $name, $color in $btnColors {
+	.button.#{$name} {
+		background: $color;
+		color: btn-text-color($color);
+
+		&:hover {
+			background: lighten($color, 20);
+			color: btn-text-color(lighten($color, 20));
+		}
+   	}
+}
