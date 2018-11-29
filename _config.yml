@@ -4,8 +4,8 @@ title: Antonia Atanasova
 description: If you love your business as much as I love my job, we're off to a good start!
 
 email: antoniyaat@gmail.com
-baseurl: "/jekyll-theme-lazy" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://antoniyaat.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username: antoniyaat
 
