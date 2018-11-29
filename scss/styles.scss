@@ -1,10 +1,12 @@
 
 $fa-font-path: '../fontawesome/webfonts';
 
+@import url('https://use.fontawesome.com/releases/v5.5.0/css/all.css');
+
 //@import '../fontawesome/scss/fontawesome';
-@import '../fontawesome/scss/brands';
-@import '../fontawesome/scss/regular';
-@import '../fontawesome/scss/solid';
+//@import '../fontawesome/scss/brands';
+//@import '../fontawesome/scss/regular';
+//@import '../fontawesome/scss/solid';
 
 @import 'mixins';
 @import 'responsive';
@@ -22,5 +24,3 @@ $fa-font-path: '../fontawesome/webfonts';
 
 @import 'site-header';
 @import 'site-footer';
-
-

@@ -1,6 +1,4 @@
 .navigation {
-  //font-family: "Segoe UI", Roboto, Helvetica, Arial, san-serif;
-
   display: none;
   position: fixed;
   top: 0;
@@ -10,6 +8,10 @@
   align-items: center;
   justify-content: center;
   background: rgba(#fff, 0.9);
+
+  .fas {
+    padding-right: 10px;
+  }
 
   ul {
     padding: 0;
@@ -34,6 +36,8 @@
     color: #444;
     border-radius: 0.5rem;
     box-shadow: 0 0 1.5rem 0.1rem rgba(#000, 0.1);
+    font-family: inherit;
+    font-weight: normal;
   }
 
   a:before {
