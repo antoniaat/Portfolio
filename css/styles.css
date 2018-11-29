@@ -5637,7 +5637,6 @@ input[type=submit]:hover {
 
 body {
     color: var(--color-text-main, red);
-    padding-top: 10rem;
     background: 0 0
 }
 
