@@ -3,3 +3,4 @@
 .vscode
 Gemfile.lock
 node_modules
+.idea

@@ -1,6 +1,6 @@
 # Site settings
 
-title: Antonia Atanasova
+title: Antonia
 description: If you love your business as much as I love my job, we're off to a good start!
 
 email: antoniyaat@gmail.com
@@ -12,15 +12,15 @@ github_username: antoniyaat
 future: true
 markdown: kramdown
 plugins:
-  - jekyll-feed
+- jekyll-feed
 
 destination: docs
 
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - package.json
-  - gulpfile.js
-  - docs
-  - node_modules
-  - scss
+- Gemfile
+- Gemfile.lock
+- package.json
+- gulpfile.js
+- docs
+- node_modules
+- scss

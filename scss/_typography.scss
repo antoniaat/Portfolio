@@ -1,5 +1,6 @@
 html {
-  font: var(--font-size-initial, 12px)/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font: var(--font-size-initial, 12px/1.6), BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: 'Open Sans', serif;
 }
 
 @media screen and (min-width: 500px) {
@@ -21,6 +22,13 @@ body, table, th, td, form, input, textarea, option, select {
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.2;
   padding-bottom: 0.5em;
+  font-family: 'Saira Extra Condensed', serif;
+  text-transform: uppercase;
+  color: #607D89;
+}
+
+.site-description {
+  font-family: 'Saira Extra Condensed', serif;
 }
 
 $headings: (h1: 2.441em, h2: 1.953em, h3: 1.563em, h5: 1em, h6: 1em);
@@ -41,4 +49,20 @@ ul, ol {
 
 li {
   list-style-position: inside;
+}
+
+a {
+  color: #607D89;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+b {
+  color: #607D89;
+}
+
+hr {
+  color: #607D89;
+  border: 1px solid #607D89;
+  width: 18%;
 }

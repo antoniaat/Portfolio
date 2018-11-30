@@ -3,9 +3,11 @@ body {
 	padding-top: 0;
 }
 
-.site {
-	padding: var(--spacing-site, 2em);
+.fas, .far {
+	padding-right: 10px;
+}
 
+.site {
 	@at-root #{&}-content {
 		max-width: 60rem;
 		margin: 0 auto;
@@ -30,4 +32,16 @@ body.login {
 			display: none;
 		}
 	}
+}
+
+.green {
+	color: #607D89;
+}
+
+.center {
+	text-align: center;
+}
+
+.experience h2 {
+	margin-top: 3rem;
 }

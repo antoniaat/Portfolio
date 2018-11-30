@@ -1,36 +1,54 @@
 body {
-	background: none;
+  background: none;
+}
+
+.site-header {
+  margin-bottom: 3rem;
 }
 
 .site-branding {
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	position: static;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: static;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: linear-gradient(to bottom, rgba(white, 1) 60%, rgba(white, 0) 100%);
+  padding: var(--spacing-site) var(--spacing-site) .5em;
 
+  p:nth-child(2) {
+    padding-bottom: .7em;
+  }
 
+  p:nth-child(2) a {
+    text-decoration: none;
+  }
 
-	top: 0; left: 0;
-	width: 100%;
-	background: linear-gradient(to bottom, rgba(white,1) 60%, rgba(white,0) 100%); 
-	padding: var(--spacing-site);
-	padding-bottom: 4rem;
+  .fab {
+    color: #444;
+    padding: 0 .3em;
+  }
+
+  .fab:hover {
+    cursor: pointer;
+    color: #607D89;
+  }
 }
 
 .site-title {
-	font-size: 1.8em;
-	padding-bottom: 0.5rem;
-	margin-bottom: 0.5rem;
-	border-bottom: 2px solid #DDD;
+  font-size: 1.8em;
+  padding-bottom: 0.5rem;
+  text-transform: uppercase;
+  font-weight: bold;
 
-	& a {
-		text-decoration: none;
-		color: inherit;
-	}
+  & a {
+    text-decoration: none;
+    color: inherit;
+  }
 }
 
 .site-description {
-	font-style: italic;
-	font-family: serif;
-	font-size: 110%;
+  font-family: 'Open Sans';
+  font-size: 100%;
 }

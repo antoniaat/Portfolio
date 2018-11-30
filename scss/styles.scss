@@ -3,10 +3,8 @@ $fa-font-path: '../fontawesome/webfonts';
 
 @import url('https://use.fontawesome.com/releases/v5.5.0/css/all.css');
 
-//@import '../fontawesome/scss/fontawesome';
-//@import '../fontawesome/scss/brands';
-//@import '../fontawesome/scss/regular';
-//@import '../fontawesome/scss/solid';
+@import url('https://fonts.googleapis.com/css?family=Saira+Extra+Condensed');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 @import 'mixins';
 @import 'responsive';
@@ -21,6 +19,7 @@ $fa-font-path: '../fontawesome/webfonts';
 @import 'navigation';
 
 @import 'listing';
+@import 'timeline';
 
 @import 'site-header';
 @import 'site-footer';
