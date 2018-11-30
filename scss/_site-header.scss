@@ -51,4 +51,32 @@ body {
 .site-description {
   font-family: 'Open Sans';
   font-size: 100%;
+
+  //color: rgb(204, 204, 204);
+  //color: rgb(193, 193, 193);
+  //color: rgb(128, 128, 128);
+}
+
+/* Header */
+.large-header {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  background-size: cover;
+  background: rgba(255, 255, 255, 0.1) center center;
+  z-index: 1;
+  //background: url("../images/a.jpg");
+}
+
+.navigation-bar {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  color: #f9f1e9;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate3d(-50%,-50%,0);
+  transform: translate3d(-50%,-50%,0);
+  z-index: 2;
 }

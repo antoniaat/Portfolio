@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #607D89;
 }
 
-.site-description {
+.site-description, .site-title {
   font-family: 'Saira Extra Condensed', serif;
 }
 
@@ -62,7 +62,9 @@ b {
 }
 
 hr {
-  color: #607D89;
-  border: 1px solid #607D89;
+  background: #607D89;
+  outline: none;
+  border: none;
+  height: 2px;
   width: 18%;
 }

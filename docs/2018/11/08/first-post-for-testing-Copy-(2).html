@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width"/>
     <title>Antonia Atanasova</title>
     <link rel="stylesheet" href="/css/styles.css" type="text/css"/>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.0.2/TweenMax.min.js"></script>
 </head>
 <body class="first-post-for-thesting-the-theme">
 <div class="site">
@@ -14,7 +15,7 @@
         <div class="site-branding">
             <p class="site-title">
                 <a href="/">Antonia <span class="green">Atanasova</span></a>
-                <p>Sofia, Bulgaria · <a class="green" href="mailto:antoniyaata@gmail.com">antoniyaata@gmail.com</a></p>
+            <p>Sofia, Bulgaria · <a class="green" href="mailto:antoniyaata@gmail.com">antoniyaata@gmail.com</a></p>
             <hr>
             </p>
             <p class="site-description">If you love your business as much as I love my job, we're off to a good start!</p>
@@ -22,14 +23,21 @@
             <div>
                 <a href="https://github.com/antoniyaat" target="_blank"><i class="fab fa-github fa-2x"></i></a>
                 <a href="https://www.facebook.com/antoniyaat" target="_blank"><i class="fab fa-facebook fa-2x"></i></a>
-                <a href="https://www.instagram.com/antoniyaat/" target="_blank"><i class="fab fa-instagram fa-2x"></i></a>
+                <a href="https://www.instagram.com/antoniyaat/" target="_blank"><i
+                        class="fab fa-instagram fa-2x"></i></a>
                 <a href="https://www.linkedin.com/in/antoniyaata/" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a>
             </div>
         </div>
 
         <label id="nav-toggle-right" for="nav-main-toggle" class="fas nav-toggle right"><span>Menu</span></label>
+
         <nav class="navigation main">
-            <ul>
+            <div id="large-header" class="large-header">
+                <canvas id="demo-canvas">
+                </canvas>
+                <!--<h1 class="main-title">Connect <span class="thin">Three</span></h1>-->
+            </div>
+            <ul class="navigation-bar">
                 <li><a href="/"><i class="fas fa-newspaper"></i>BLOG</a></li>
                 <li><a href="/about/"><i class="fas fa-glasses"></i></i>ABOUT ME</a></li>
                 <li><a href="/experience/"><i class="fas fa-briefcase"></i>EXPERIENCE</a></li>
@@ -76,11 +84,13 @@
 
 
 
-        <footer class="site-footer">
-            <!--All rights reserved &copy; antoniyaat-->
-        </footer>
+         <footer class="site-footer">
+             <!--All rights reserved &copy; antoniyaat-->
+         </footer>
     </main>
 
 </div>
+<script src="../js/animateHeader.js"></script>
+
 </body>
 </html>

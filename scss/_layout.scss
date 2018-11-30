@@ -42,6 +42,13 @@ body.login {
 	text-align: center;
 }
 
-.experience h2 {
-	margin-top: 3rem;
+.experience {
+	background: white;
+	border-radius: 2em;
+	padding: .3em;
+	opacity: 1;
+
+	h2 {
+		margin-top: 3rem;
+	}
 }
