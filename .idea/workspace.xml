@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b352691-76fd-4283-bc56-8db2cc262857" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/map/projects.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/map/projects.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/map/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/map/styles.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/projects.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/projects.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2018/11/08/first-post-for-testing-Copy-(2).html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2018/11/08/first-post-for-testing-Copy-(2).html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2018/11/08/first-post-for-testing-Copy-(3).html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2018/11/08/first-post-for-testing-Copy-(3).html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2018/11/08/first-post-for-testing-Copy-(4).html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2018/11/08/first-post-for-testing-Copy-(4).html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2018/11/08/first-post-for-testing-Copy.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2018/11/08/first-post-for-testing-Copy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2018/11/08/first-post-for-testing.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2018/11/08/first-post-for-testing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2018/11/09/second-post-for-testing.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2018/11/09/second-post-for-testing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2018/11/10/third-post-for-testing.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2018/11/10/third-post-for-testing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/map/projects.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/map/projects.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/map/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/map/styles.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/projects.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/projects.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/education/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/education/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/experience/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/experience/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/projects/ybc-fest.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/projects/ybc-fest.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/projects/yes-camp-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/projects/yes-camp-bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/projects/youth-business-club.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/projects/youth-business-club.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/projects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/projects/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/education.html" beforeDir="false" afterPath="$PROJECT_DIR$/education.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/projects/ybc-fest.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/projects/ybc-fest.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/projects/yes-camp-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/projects/yes-camp-bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/projects/youth-business-club.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/projects/youth-business-club.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/projects.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/projects.scss" afterDir="false" />
-    </list>
+    <list default="true" id="4b352691-76fd-4283-bc56-8db2cc262857" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -161,8 +127,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/projects.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="64" column="55" selection-start-line="64" selection-start-column="55" selection-end-line="64" selection-end-column="55" />
+            <state relative-caret-position="334">
+              <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
             </state>
           </provider>
         </entry>
@@ -281,7 +247,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-10" />
     <option name="width" value="1935" />
     <option name="height" value="1039" />
@@ -371,12 +337,12 @@
       <workItem from="1543501936572" duration="9264000" />
       <workItem from="1543569115033" duration="24774000" />
       <workItem from="1543750404770" duration="175000" />
-      <workItem from="1543759220357" duration="1982000" />
+      <workItem from="1543759220357" duration="2102000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50566000" />
+    <option name="totallyTimeSpent" value="50686000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1548" height="831" extended-state="0" />
@@ -635,8 +601,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/projects.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="64" column="55" selection-start-line="64" selection-start-column="55" selection-end-line="64" selection-end-column="55" />
+        <state relative-caret-position="334">
+          <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
         </state>
       </provider>
     </entry>
