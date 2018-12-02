@@ -1,10 +1,13 @@
 :root {
-	--font-size-initial: 12px;
-	--font-size-lv2: 14px;
-	--font-size-lv3: 16px;
-	--font-size-lv4: 18px;
+  --font-size-initial: 12px;
+  --font-size-headings: 'Saira Extra Condensed', serif;
+  --font-size-lv2: 14px;
+  --font-size-lv3: 16px;
+  --font-size-lv4: 18px;
 
-	--spacing-site: 2rem;
+  --spacing-site: 2rem;
 
-	--color-text-main: #000;
+  --color-text-main: #444;
+  --color-green: #607d89;
+  --color-secondary-main: #868e96;
 }

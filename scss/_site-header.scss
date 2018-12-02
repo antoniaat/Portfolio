@@ -63,11 +63,15 @@ body {
   margin: 0;
   padding: 0;
   color: #f9f1e9;
-  text-align: center;
+  text-align: left;
   top: 50%;
   left: 50%;
   transform: translate3d(-50%, -50%, 0);
   z-index: 2;
+
+  li:hover {
+    color: #f9f1e9;
+  }
 }
 
 .social {

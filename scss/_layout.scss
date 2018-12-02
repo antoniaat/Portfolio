@@ -1,54 +1,46 @@
 body {
-	color: var(--color-text-main, red);
-	padding-top: 0;
-}
-
-.fas, .far {
-	padding-right: 10px;
+  color: var(--color-text-main);
+  padding-top: 0;
 }
 
 .site {
-	@at-root #{&}-content {
-		max-width: 60rem;
-		margin: 0 auto;
-	}
+  @at-root #{&}-content {
+    max-width: 60rem;
+    margin: 0 auto;
+  }
 }
 
 body.login {
-	height: 100vh;
-	overflow: hidden;
-	padding-top: 0;
-	display: flex;
+  height: 100vh;
+  overflow: hidden;
+  padding-top: 0;
+  display: flex;
 
-	.site {
-		flex: 1 0 auto;
-		background: #EEE;
-		border: 4rem solid #FFF;
-		display: flex;
-		align-items: center;
-		justify-content: space-between;
+  .site {
+    flex: 1 0 auto;
+    background: #EEE;
+    border: 4rem solid white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 
-		#{&}-header {
-			display: none;
-		}
-	}
-}
-
-.green {
-	color: #607D89;
+    #{&}-header {
+      display: none;
+    }
+  }
 }
 
 .center {
-	text-align: center;
+  text-align: center;
 }
 
-.experience {
-	background: white;
-	border-radius: 2em;
-	padding: .3em;
-	opacity: 1;
+.experience h2 {
+  margin-top: 2rem;
+}
 
-	h2 {
-		margin-top: 3rem;
-	}
+#skills ul li {
+  text-decoration: none;
+  display: block;
+  line-height: 2em;
+  color: var(--color-secondary-main);
 }

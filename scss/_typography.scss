@@ -4,59 +4,68 @@ html {
 }
 
 @media screen and (min-width: 500px) {
-  html { font-size: var(--font-size-lv2, 14px); }
+  html {
+    font-size: var(--font-size-lv2, 14px);
+  }
 }
 
 @media screen and (min-width: 700px) {
-  html { font-size: var(--font-size-lv3, 16px); }
+  html {
+    font-size: var(--font-size-lv3, 16px);
+  }
 }
 
 @media screen and (min-width: 1600px) {
-  html { font-size: var(--font-size-lv4, 18px); }
+  html {
+    font-size: var(--font-size-lv4, 18px);
+  }
 }
 
 body, table, th, td, form, input, textarea, option, select {
   font: inherit;
 }
 
+.site-description, .site-title, h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-size-headings);
+}
+
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.2;
   padding-bottom: 0.5em;
-  font-family: 'Saira Extra Condensed', serif;
   text-transform: uppercase;
-  color: #607D89;
-}
-
-.site-description, .site-title {
-  font-family: 'Saira Extra Condensed', serif;
+  color: var(--color-green);
 }
 
 $headings: (h1: 2.441em, h2: 1.953em, h3: 1.563em, h5: 1em, h6: 1em);
 
 @each $heading, $size in $headings {
-  #{$heading} { font-size: $size; }
+  #{$heading} {
+    font-size: $size;
+  }
 }
 
-h5, h6 { font-weight: bold; }
+h5, h6 {
+  font-weight: bold;
+}
 
 p, ul, ol {
   padding-bottom: 1.5em;
-}
-
-ul, ol {
-  padding-left: 2em;
 }
 
 li {
   list-style-position: inside;
 }
 
-a {
-  color: #607D89;
-  text-decoration: none;
-  font-weight: bold;
+.fas, .fa {
+  padding-right: 10px;
+  color: var(--color-text-main);
 }
 
-b {
-  color: #607D89;
+a, b, .green {
+  color: var(--color-green);
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
 }
