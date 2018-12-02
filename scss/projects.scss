@@ -10,7 +10,7 @@
   position: relative;
   float: left;
   width: 33.33333333333%;
-  background-color: #128EF3;
+  background-color: rgba(68, 68, 68, .6);
   overflow: hidden;
 
   &:after {
@@ -84,12 +84,15 @@
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
+  color: white;
+  font-weight: bold;
 }
 
 .item-text-title {
-  font-weight: normal;
+  font-weight: bold;
   padding: 0 15px;
   margin: 5px 0 0 0;
+  color: white;
 }
 
 .item-text-dek {
