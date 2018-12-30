@@ -3,50 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="4b352691-76fd-4283-bc56-8db2cc262857" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-11-08-first-post-for-testing - Copy (2).markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-11-08-first-post-for-testing - Copy (3).markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-11-08-first-post-for-testing - Copy (4).markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-11-08-first-post-for-testing - Copy.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-11-08-first-post-for-testing.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-11-09-second-post-for-testing.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/map/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/map/styles.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/projects.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/projects.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2018/11/08/first-post-for-testing-Copy-(2).html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2018/11/08/first-post-for-testing-Copy-(3).html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2018/11/08/first-post-for-testing-Copy-(4).html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2018/11/08/first-post-for-testing-Copy.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2018/11/08/first-post-for-testing.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2018/11/09/second-post-for-testing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-11-30-html-and-css-basics.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-30-html-and-css-basics.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z - Copy.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z - Copy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/map/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/map/styles.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/projects.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/projects.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/freelance/event/lecture/2018/12/17/freelance-from-a-z-Copy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/freelance/event/lecture/2018/12/17/freelance-from-a-z.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/freelance/event/lecture/2018/12/17/freelance-from-a-z.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/html/css/lecture/course/2018/11/18/html-and-css-basics.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/education/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/education/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/experience/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/experience/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/projects/Deka3s.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/projects/Deka3s.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/projects/perfecta-marketing-agency.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/projects/perfecta-marketing-agency.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/projects/ybc-fest.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/projects/ybc-fest.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/projects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/projects/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/projects/Deka3s.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/projects/Deka3s.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/projects/perfecta-marketing-agency.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/projects/perfecta-marketing-agency.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/projects/ybc-fest.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/projects/ybc-fest.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_layout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_layout.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_listing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_listing.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_navigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_navigation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_site-header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_site-header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_typography.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -174,7 +143,7 @@
       <file leaf-file-name="projects.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projects.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
+            <state relative-caret-position="1920">
               <caret line="96" column="35" selection-start-line="96" selection-start-column="35" selection-end-line="96" selection-end-column="35" />
             </state>
           </provider>
@@ -184,19 +153,34 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-11-30-html-and-css-basics.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="80">
-                <caret line="3" column="73" selection-start-line="3" selection-start-column="73" selection-end-line="3" selection-end-column="73" />
+              <first_editor relative-caret-position="438">
+                <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_listing.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scss/_listing.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+      <file leaf-file-name="2018-12-30-freelance-from-a-z - Copy.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z - Copy.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="100">
+                <caret line="4" lean-forward="true" selection-end-line="51" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-12-30-freelance-from-a-z.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="38">
+                <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -204,7 +188,7 @@
       <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
+            <state relative-caret-position="960">
               <caret line="48" column="104" selection-start-line="48" selection-start-column="104" selection-end-line="48" selection-end-column="104" />
             </state>
           </provider>
@@ -213,7 +197,7 @@
       <file leaf-file-name="_navigation.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scss/_navigation.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
+            <state relative-caret-position="840">
               <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
             </state>
           </provider>
@@ -222,7 +206,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
+            <state relative-caret-position="360">
               <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
             </state>
           </provider>
@@ -240,17 +224,8 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
+            <state relative-caret-position="640">
               <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_animations.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scss/_animations.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="134" selection-start-line="134" selection-end-line="134" />
             </state>
           </provider>
         </entry>
@@ -258,7 +233,7 @@
       <file leaf-file-name="_typography.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scss/_typography.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
+            <state relative-caret-position="980">
               <caret line="49" selection-start-line="49" selection-end-line="49" />
             </state>
           </provider>
@@ -347,9 +322,10 @@
         <option value="$PROJECT_DIR$/scss/_navigation.scss" />
         <option value="$PROJECT_DIR$/scss/_layout.scss" />
         <option value="$PROJECT_DIR$/scss/_typography.scss" />
-        <option value="$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z.md" />
         <option value="$PROJECT_DIR$/projects.html" />
         <option value="$PROJECT_DIR$/_posts/2018-12-30-html-and-css-basics.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z - Copy.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-30-html-and-css-basics.md" />
       </list>
     </option>
@@ -375,9 +351,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-10" />
-    <option name="y" value="1" />
     <option name="width" value="1935" />
-    <option name="height" value="1039" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -387,6 +362,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -440,7 +416,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -491,15 +466,16 @@
       <workItem from="1543569115033" duration="24774000" />
       <workItem from="1543750404770" duration="175000" />
       <workItem from="1543759220357" duration="9764000" />
-      <workItem from="1546202380869" duration="10774000" />
+      <workItem from="1546202380869" duration="10849000" />
+      <workItem from="1546213521457" duration="426000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69122000" />
+    <option name="totallyTimeSpent" value="69623000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="1" width="1548" height="831" extended-state="0" />
+    <frame x="-8" y="0" width="1548" height="832" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" order="2" side_tool="true" />
@@ -510,35 +486,35 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32998565" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.59761745" weight="0.3275862" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.7293183" visible="true" weight="0.24028777" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.7293183" visible="true" weight="0.23994254" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
     </layout>
     <layout-to-restore>
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.59761745" weight="0.3275862" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2964924" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32998565" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.59761745" weight="0.3275862" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.7293183" visible="true" weight="0.23994254" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.27068168" side_tool="true" visible="true" weight="0.23994254" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32998565" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
       <window_info id="Favorites" order="3" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -549,7 +525,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fontawesome/css/brands.css" />
     <entry file="file://$PROJECT_DIR$/fontawesome/css/fontawesome.css" />
     <entry file="file://$PROJECT_DIR$/fontawesome/css/solid.css" />
     <entry file="file://$PROJECT_DIR$/fontawesome/scss/_icons.scss" />
@@ -572,8 +547,8 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/css/map/styles.css.map">
-      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -686,41 +661,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-11-08-first-post-for-testing.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="160">
-            <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-11-08-first-post-for-testing-copy.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="220">
-            <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z.markdown" />
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-08-first-post-for-testing.markdown" />
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-08-first-post-for-testing-copy.markdown" />
     <entry file="file://$PROJECT_DIR$/scss/_site-header.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -742,37 +685,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-31-12-intoduction-to-html-and-css.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-31-12-intoduction-to-html-and-css.html" />
     <entry file="file://$PROJECT_DIR$/scss/_animations.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
+        <state relative-caret-position="2680">
           <caret line="134" selection-start-line="134" selection-end-line="134" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/_listing.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="360">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
+        <state relative-caret-position="960">
           <caret line="48" column="104" selection-start-line="48" selection-start-column="104" selection-end-line="48" selection-end-column="104" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/_navigation.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
+        <state relative-caret-position="840">
           <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
         </state>
       </provider>
@@ -786,57 +723,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/_typography.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
+        <state relative-caret-position="980">
           <caret line="49" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
+        <state relative-caret-position="360">
           <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
+        <state relative-caret-position="640">
           <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-30-html-and-css-basics.md" />
+    <entry file="file://$PROJECT_DIR$/projects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1920">
+          <caret line="96" column="35" selection-start-line="96" selection-start-column="35" selection-end-line="96" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="900">
-            <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+          <first_editor relative-caret-position="38">
+            <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-12-30-html-and-css-basics.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z - Copy.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="140">
-            <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+          <first_editor relative-caret-position="100">
+            <caret line="4" lean-forward="true" selection-end-line="51" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="96" column="35" selection-start-line="96" selection-start-column="35" selection-end-line="96" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-11-30-html-and-css-basics.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="80">
-            <caret line="3" column="73" selection-start-line="3" selection-start-column="73" selection-end-line="3" selection-end-column="73" />
+          <first_editor relative-caret-position="438">
+            <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
           </first_editor>
           <second_editor />
         </state>

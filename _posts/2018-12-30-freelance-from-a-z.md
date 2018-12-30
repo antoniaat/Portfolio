@@ -43,6 +43,20 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - Client Relationships
 - Pricing, Finances and Money
 
-If you are interested in this point see more for the event [here](https://www.facebook.com/events/623004038102822/).
+If you are interested see more for the event [here](https://www.facebook.com/events/623004038102822/).
+
+<br>
+# Presentation - Antonia
+
+<iframe src="//slides.com/antoniaatanasova/freelance-5/embed" width="100%" height="420" scrolling="no" frameborder="0" 
+webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<br>
+<br>
+# Presentation - Martin
+
+<iframe src="//slides.com/antoniaatanasova/freelance/embed" width="100%" height="420" scrolling="no" frameborder="0" 
+webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<br>
+<br>
 
 ![freelance](https://scontent.fsof3-1.fna.fbcdn.net/v/t1.0-9/48969791_1859855817457504_3257660456961048576_n.jpg?_nc_cat=105&_nc_ht=scontent.fsof3-1.fna&oh=36b8e4ed28a807e76fb4b60f4ac3bf14&oe=5CC5200A)
