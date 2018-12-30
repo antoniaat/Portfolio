@@ -29,11 +29,12 @@ body, table, th, td, form, input, textarea, option, select {
   font-family: var(--font-size-headings);
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4 {
   line-height: 1.2;
   padding-bottom: 0.5em;
   text-transform: uppercase;
   color: var(--color-green);
+  text-align: center;
 }
 
 $headings: (h1: 2.441em, h2: 1.953em, h3: 1.563em, h5: 1em, h6: 1em);
@@ -45,7 +46,10 @@ $headings: (h1: 2.441em, h2: 1.953em, h3: 1.563em, h5: 1em, h6: 1em);
 }
 
 h5, h6 {
-  font-weight: bold;
+  font-family: 'Open sans', sans-serif;
+  font-weight: 500;
+  font-size: 1.2em;
+  color: #444;
 }
 
 p, ul, ol {

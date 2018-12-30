@@ -6,8 +6,17 @@ layout: site
     {% for post in site.posts %}
     <li>
         <a href="{{ site.baseurl }}{{ post.url }}">
+            <img src="{{ site.baseurl }}/{{ post.img }}">
             <span class="title">{{ post.title }}</span>
-            <span class="date">{{ post.date | date_to_string }}</span>
+
+            <span class="post-description">{{ post.description }}</span>
+
+            <div class="post-info">
+                <span class="date">{{ post.date | date_to_string }}</span>
+                <span class="author">{{ post.author }}</span>
+            </div>
+
+            <span class="post-tag">{{ post.tags }}</span>
         </a>
     </li>
     {% endfor %}
