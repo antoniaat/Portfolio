@@ -3,14 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="4b352691-76fd-4283-bc56-8db2cc262857" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/map/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/map/styles.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/map/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/map/styles.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/education/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/education/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-11-30-html-and-css-basics.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z - Copy.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z - Copy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/html/css/lecture/course/2018/11/18/freelance-from-a-z-Copy.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/html/css/lecture/course/2018/11/18/freelance-from-a-z-Copy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/html/css/lecture/course/2018/11/18/html-and-css-basics.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/education.html" beforeDir="false" afterPath="$PROJECT_DIR$/education.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_projects.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_projects.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -147,12 +145,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-11-30-html-and-css-basics.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-11-30-html-and-css-basics.md">
+      <file leaf-file-name="2018-12-30-freelance-from-a-z - Copy.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z - Copy.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="360">
-                <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <first_editor relative-caret-position="176">
+                <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
               </first_editor>
               <second_editor />
             </state>
@@ -198,11 +196,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="education.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="education.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/education.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="225" lean-forward="true" selection-start-line="225" selection-end-line="225" />
+            <state relative-caret-position="377">
+              <caret line="470" column="10" selection-start-line="470" selection-start-column="10" selection-end-line="470" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -212,15 +210,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="394">
               <caret line="120" column="16" selection-start-line="120" selection-start-column="16" selection-end-line="120" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -317,8 +306,6 @@
         <option value="$PROJECT_DIR$/scss/_typography.scss" />
         <option value="$PROJECT_DIR$/projects.html" />
         <option value="$PROJECT_DIR$/_posts/2018-12-30-html-and-css-basics.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z - Copy.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-11-30-html-and-css-basics.md" />
         <option value="$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z.md" />
         <option value="$PROJECT_DIR$/scss/_mixins.scss" />
         <option value="$PROJECT_DIR$/scss/_site/styles.scss" />
@@ -326,6 +313,8 @@
         <option value="$PROJECT_DIR$/scss/_responsive.scss" />
         <option value="$PROJECT_DIR$/scss/_projects.scss" />
         <option value="$PROJECT_DIR$/education.html" />
+        <option value="$PROJECT_DIR$/_posts/2018-11-30-html-and-css-basics.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z - Copy.md" />
       </list>
     </option>
   </component>
@@ -467,12 +456,12 @@
       <workItem from="1543759220357" duration="9764000" />
       <workItem from="1546202380869" duration="10849000" />
       <workItem from="1546213521457" duration="1207000" />
-      <workItem from="1546252773113" duration="5824000" />
+      <workItem from="1546252773113" duration="6932000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76228000" />
+    <option name="totallyTimeSpent" value="77336000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1548" height="830" extended-state="0" />
@@ -716,26 +705,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-12-30-html-and-css-basics.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z - Copy.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="100">
-            <caret line="4" lean-forward="true" selection-end-line="51" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-11-30-html-and-css-basics.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="360">
-            <caret line="18" selection-start-line="18" selection-end-line="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -800,8 +769,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/education.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="225" lean-forward="true" selection-start-line="225" selection-end-line="225" />
+        <state relative-caret-position="377">
+          <caret line="470" column="10" selection-start-line="470" selection-start-column="10" selection-end-line="470" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-30-html-and-css-basics.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="320">
+            <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z - Copy.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="176">
+            <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
