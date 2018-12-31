@@ -4,18 +4,10 @@
     <list default="true" id="4b352691-76fd-4283-bc56-8db2cc262857" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2018-11-30-html-and-css-basics.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-30-html-and-css-basics.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z - Copy.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z - Copy.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/freelance/event/lecture/2018/12/17/freelance-from-a-z-Copy.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/blog/freelance/event/lecture/2018/12/17/freelance-from-a-z.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/freelance/event/lecture/2018/12/17/freelance-from-a-z.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/html/css/lecture/course/2018/11/18/html-and-css-basics.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/education/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/education/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/experience/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/experience/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/html/css/lecture/course/2018/11/18/html-and-css-basics.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/html/css/lecture/course/2018/11/18/html-and-css-basics.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/projects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/projects/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -149,36 +141,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-11-30-html-and-css-basics.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-11-30-html-and-css-basics.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-11-30-html-and-css-basics.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="438">
-                <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+              <first_editor relative-caret-position="220">
+                <caret line="18" selection-start-line="18" selection-end-line="18" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-12-30-freelance-from-a-z - Copy.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z - Copy.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="100">
-                <caret line="4" lean-forward="true" selection-end-line="51" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018-12-30-freelance-from-a-z.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2018-12-30-freelance-from-a-z.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="38">
-                <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+              <first_editor relative-caret-position="240">
+                <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
               </first_editor>
               <second_editor />
             </state>
@@ -324,9 +304,9 @@
         <option value="$PROJECT_DIR$/scss/_typography.scss" />
         <option value="$PROJECT_DIR$/projects.html" />
         <option value="$PROJECT_DIR$/_posts/2018-12-30-html-and-css-basics.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z.md" />
         <option value="$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z - Copy.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-30-html-and-css-basics.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z.md" />
       </list>
     </option>
   </component>
@@ -467,12 +447,12 @@
       <workItem from="1543750404770" duration="175000" />
       <workItem from="1543759220357" duration="9764000" />
       <workItem from="1546202380869" duration="10849000" />
-      <workItem from="1546213521457" duration="426000" />
+      <workItem from="1546213521457" duration="1207000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69623000" />
+    <option name="totallyTimeSpent" value="70404000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1548" height="832" extended-state="0" />
@@ -750,16 +730,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="38">
-            <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z - Copy.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -773,8 +743,18 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-11-30-html-and-css-basics.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="438">
-            <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+          <first_editor relative-caret-position="220">
+            <caret line="18" selection-start-line="18" selection-end-line="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-30-freelance-from-a-z.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
           </first_editor>
           <second_editor />
         </state>
