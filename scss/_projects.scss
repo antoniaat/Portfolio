@@ -1,6 +1,6 @@
 .item-grid {
   max-width: 900px;
-  margin: 100px auto;
+  margin: 2em auto;
   position: relative;
   box-shadow: 0 5px 10px 0 rgba(0, 0, 0, .3);
   overflow: hidden;
@@ -111,4 +111,12 @@
   line-height: 0;
   overflow: hidden;
   text-indent: -9999px;
+}
+
+#skills {
+  margin-top: 2em;
+}
+
+.certificate {
+  height: 290px;
 }
