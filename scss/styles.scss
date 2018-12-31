@@ -1,4 +1,3 @@
-
 $fa-font-path: '../fontawesome/webfonts';
 
 @import url('https://use.fontawesome.com/releases/v5.5.0/css/all.css');
@@ -7,7 +6,6 @@ $fa-font-path: '../fontawesome/webfonts';
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 @import 'mixins';
-@import 'responsive';
 @import 'variables';
 @import 'reset';
 @import 'animations';
@@ -24,3 +22,5 @@ $fa-font-path: '../fontawesome/webfonts';
 
 @import 'site-header';
 @import 'site-footer';
+
+@import 'responsive';

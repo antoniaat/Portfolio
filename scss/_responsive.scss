@@ -1,29 +1,57 @@
-$breakpoints: (
-	"phone": 400px,
-	"phone-wide": 480px,
-	"phablet": 560px,
-	"tablet-small": 640px,
-	"tablet": 768px,
-	"tablet-wide": 1024px,
-	"desktop": 1248px,
-	"desktop-wide": 1440px
-);
+@media only screen and (max-width: 600px) {
+  //Blog page
+  .listing {
+    display: block;
 
-@mixin mq($width, $type: min) {
-	@if map_has_key($breakpoints, $width) {
+    li {
+      width: 100%;
+      margin: .6em auto;
+    }
+  }
 
-		$width: map_get($breakpoints, $width);
+  #demo-canvas {
+    display: none;
+  }
 
-		@if $type == max {
-			$width: $width - 1px;
-		}
+  //Menu
+  .navigation-bar {
+    width: 75%;
+  }
 
-		$parent: &;
+  .nav-toggle {
+    font-size: 1.4rem;
+  }
 
-		@media only screen and (#{$type}-width: $width) {
-			@at-root #{$parent} {
-				@content;
-			}
-		}
-	}
+  //About page
+  .site-content {
+    padding: 2em;
+    font-size: 1.2em;
+  }
+
+  .site-header {
+    margin-bottom: 0;
+  }
+
+  //Experience page
+  .desc {
+    text-align: left;
+  }
+
+  //Projects page
+
+  .item-grid {
+    margin: 0 auto;
+  }
+
+  .item {
+    float: none;
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 350px) {
+  //Blog posts - hide the tags and the author name
+  .listing .post-tag, .listing a .author {
+    display: none;
+  }
 }
