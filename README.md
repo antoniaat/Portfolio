@@ -1,8 +1,7 @@
 # Personal Website - [antoniyaat.com](https://antoniyaat.com)
 
-----
 
->  Personal website including full setup for **[Jekyll](https://jekyllrb.com/)**, GulpJS & SASS.
+>  Personal website including full setup for **[Jekyll](https://jekyllrb.com/)**, **[GulpJS](https://github.com/gulpjs/gulp)** & **[SASS](https://sass-lang.com/)**.
 
 ## System Preparation
 
