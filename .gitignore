@@ -5,3 +5,5 @@ Gemfile.lock
 node_modules
 .idea
 *.xml
+*.iml
+*.xml
