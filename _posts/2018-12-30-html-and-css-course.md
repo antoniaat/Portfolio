@@ -10,8 +10,8 @@ categories: [blog, html, css, lecture, course]
 tags: [course]
 ---
 
-<center><h1>Introduction to HTML and CSS</h1></center>
-<center><h2>SoftUni</h2></center>
+<h1 class='center'>Introduction to HTML and CSS</h1>
+<h2 class='center'>SoftUni</h2>
 
 This January we are preparing one special crash course - Introduction to HTML and CSS. The course will introduce the 
 technologies and will finish with workshop - How to build a landing page?

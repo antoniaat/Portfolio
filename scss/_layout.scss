@@ -48,3 +48,21 @@ body.login {
   line-height: 2em;
   color: var(--color-secondary-main);
 }
+
+.talk-container {
+  display: flex;
+  justify-content: space-between;
+  border-radius: 12px;
+  margin: 2em 0;
+
+  article {
+    h3 {
+      text-align: left;
+    }
+
+    &.left {
+      padding-left: 2em;
+    }
+
+  }
+}

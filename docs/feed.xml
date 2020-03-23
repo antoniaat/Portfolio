@@ -1,4 +1,66 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-23T18:33:30+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">antonia</title><subtitle>If you love your business as much as I love my job, we're off to a good start!</subtitle><entry><title type="html">Freelance from A-Z</title><link href="http://localhost:4000/blog/freelance/event/lecture/2018/12/17/freelance-from-a-z.html" rel="alternate" type="text/html" title="Freelance from A-Z" /><published>2018-12-17T23:16:03+02:00</published><updated>2018-12-17T23:16:03+02:00</updated><id>http://localhost:4000/blog/freelance/event/lecture/2018/12/17/freelance-from-a-z</id><content type="html" xml:base="http://localhost:4000/blog/freelance/event/lecture/2018/12/17/freelance-from-a-z.html">&lt;p&gt;&lt;img src=&quot;https://control.bilet.bg/app/web/upload/events/890_e743c211bf6dc6dc8ce45642a72fc4fa.jpg&quot; alt=&quot;freelance&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-23T20:31:37+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">antonia</title><subtitle>If you love your business as much as I love my job, we're off to a good start!</subtitle><entry><title type="html">IT Talks #6: SoftUni Podcast with Svetlin Nakov</title><link href="http://localhost:4000/programming/podcast/event/lecture/education/softuni/ittalks/talk/itpodcast/softunipodcast/2020/03/23/softuni-podcast-nakov.html" rel="alternate" type="text/html" title="IT Talks #6: SoftUni Podcast with Svetlin Nakov" /><published>2020-03-23T19:50:00+02:00</published><updated>2020-03-23T19:50:00+02:00</updated><id>http://localhost:4000/programming/podcast/event/lecture/education/softuni/ittalks/talk/itpodcast/softunipodcast/2020/03/23/softuni-podcast-nakov</id><content type="html" xml:base="http://localhost:4000/programming/podcast/event/lecture/education/softuni/ittalks/talk/itpodcast/softunipodcast/2020/03/23/softuni-podcast-nakov.html">&lt;h1 class=&quot;center&quot;&gt;IT Talks #6: SoftUni Podcast with Svetlin Nakov&lt;/h1&gt;
+&lt;p&gt;По време на епизода ще чуете повече за развитието на софтуерната и технологичната индустрия през последните 20-25 години - еволюция на програмирането, езиците за програмиране, платформите за разработка, компютърните и комуникационните технологии. Ще чуете и как се развива България спрямо международния пазар, ще отворят ли големите компании офиси тук и отдалечената работа ли е пътя по който ще поеме сектора?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Линк към страницата на семинара &lt;a href=&quot;https://softuni.bg/trainings/2910/it-talks-softuni-podcast-svetlin-nakov&quot;&gt;тук&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Линк към YouTube &lt;a href=&quot;https://youtu.be/p9juErelaPE&quot;&gt;тук&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Линк към Spotify &lt;a href=&quot;https://open.spotify.com/episode/3Hg5kDEC1CjlPjQb4jQqfn?si=pZqQ17CvQ4OCg91zBtlJSQ&quot;&gt;тук&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Линк към SoundCloud &lt;a href=&quot;https://soundcloud.com/user-40054233/it-talks-6-softuni-podcast-with-svetlin-nakov/s-6VeFrLxvaYo&quot;&gt;тук&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;500&quot; src=&quot;https://www.youtube.com/embed/p9juErelaPE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name>Antonia Atanasova</name></author><category term="talks" /><summary type="html">IT Talks #6: SoftUni Podcast with Svetlin Nakov По време на епизода ще чуете повече за развитието на софтуерната и технологичната индустрия през последните 20-25 години - еволюция на програмирането, езиците за програмиране, платформите за разработка, компютърните и комуникационните технологии. Ще чуете и как се развива България спрямо международния пазар, ще отворят ли големите компании офиси тук и отдалечената работа ли е пътя по който ще поеме сектора?</summary></entry><entry><title type="html">IT Talks #4: SoftUni Podcast with Ivaylo Kenov</title><link href="http://localhost:4000/programming/podcast/event/lecture/education/softuni/ittalks/talk/itpodcast/softunipodcast/2020/03/13/podcast-kenov.html" rel="alternate" type="text/html" title="IT Talks #4: SoftUni Podcast with Ivaylo Kenov" /><published>2020-03-13T19:50:00+02:00</published><updated>2020-03-13T19:50:00+02:00</updated><id>http://localhost:4000/programming/podcast/event/lecture/education/softuni/ittalks/talk/itpodcast/softunipodcast/2020/03/13/podcast-kenov</id><content type="html" xml:base="http://localhost:4000/programming/podcast/event/lecture/education/softuni/ittalks/talk/itpodcast/softunipodcast/2020/03/13/podcast-kenov.html">&lt;h1 class=&quot;center&quot;&gt;IT Talks #4: SoftUni Podcast with Ivaylo Kenov&lt;/h1&gt;
+&lt;p&gt;В епизод #4 ще разберете:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Кой е Ивайло Кенов?&lt;/li&gt;
+  &lt;li&gt;Какъв е професионалният път, който е извървял и какво го е накарало да се потопи в света на програмирането?&lt;/li&gt;
+  &lt;li&gt;Как от програмист се става CTO?&lt;/li&gt;
+  &lt;li&gt;Какво мисли за open-source проектите и какви ползи може да извлече човек от тях?&lt;/li&gt;
+  &lt;li&gt;Как Ивайло задържа мотивацията си и как управлява времето си?&lt;/li&gt;
+  &lt;li&gt;Кои са били трудните моменти от които Ивайло си е взел поука?&lt;/li&gt;
+  &lt;li&gt;Как можем да задържим дисциплината и продуктивността си на високо ниво?&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Как Ивайло продължава да развива технологичното си ниво и кои полезни източници и книги препоръчва за всеки, който иска да обогати знанията си?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Линк към страницата на семинара &lt;a href=&quot;https://softuni.bg/trainings/2909/it-talks-softuni-podcast-ivaylo-kenov&quot;&gt;тук&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Линк към YouTube &lt;a href=&quot;https://youtu.be/91LKVhfH1kc&quot;&gt;тук&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Линк към Spotify &lt;a href=&quot;https://open.spotify.com/episode/5k9Rd4f7JPEkRMhqCWSwY4?si=F-F4sXxxTBO6lAfWDIkxpg&quot;&gt;тук&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Линк към SoundCloud &lt;a href=&quot;https://soundcloud.com/user-40054233/it-talks-4-softuni-podcast-with-ivaylo-kenov&quot;&gt;тук&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;500&quot; src=&quot;https://www.youtube.com/embed/91LKVhfH1kc&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name>Antonia Atanasova</name></author><category term="talks" /><summary type="html">IT Talks #4: SoftUni Podcast with Ivaylo Kenov В епизод #4 ще разберете: Кой е Ивайло Кенов? Какъв е професионалният път, който е извървял и какво го е накарало да се потопи в света на програмирането? Как от програмист се става CTO? Какво мисли за open-source проектите и какви ползи може да извлече човек от тях? Как Ивайло задържа мотивацията си и как управлява времето си? Кои са били трудните моменти от които Ивайло си е взел поука? Как можем да задържим дисциплината и продуктивността си на високо ниво? Как Ивайло продължава да развива технологичното си ниво и кои полезни източници и книги препоръчва за всеки, който иска да обогати знанията си?</summary></entry><entry><title type="html">IT Talks #2: SoftUni Podcast with Ivaylo Papazov</title><link href="http://localhost:4000/programming/podcast/event/lecture/education/softuni/ittalks/talk/itpodcast/softunipodcast/2020/02/27/podcast-papazov.html" rel="alternate" type="text/html" title="IT Talks #2: SoftUni Podcast with Ivaylo Papazov" /><published>2020-02-27T19:00:00+02:00</published><updated>2020-02-27T19:00:00+02:00</updated><id>http://localhost:4000/programming/podcast/event/lecture/education/softuni/ittalks/talk/itpodcast/softunipodcast/2020/02/27/podcast-papazov</id><content type="html" xml:base="http://localhost:4000/programming/podcast/event/lecture/education/softuni/ittalks/talk/itpodcast/softunipodcast/2020/02/27/podcast-papazov.html">&lt;h1 class=&quot;center&quot;&gt;IT Talks #2: SoftUni Podcast with Ivaylo Papazov&lt;/h1&gt;
+&lt;p&gt;В епизод #2 ще разберете:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Кой е Ивайло Папазов?&lt;/li&gt;
+  &lt;li&gt;Как можем да си изградим правилен подход към това да учим нещата бързо и ефикасно?&lt;/li&gt;
+  &lt;li&gt;Какъв процент от времето си Иво отделя за учене?&lt;/li&gt;
+  &lt;li&gt;Кои полезни ресурси препоръчва той, за да учим и да сме в час винаги с най-новото от света на уеб програмирането?&lt;/li&gt;
+  &lt;li&gt;Има ли тайна за това как в малък срок от време да успяваме да учим различни езици и технологии?&lt;/li&gt;
+  &lt;li&gt;Как Ивайло намира начин да балансира между учене, работа и личен живот?&lt;/li&gt;
+  &lt;li&gt;Коя е била последната технология, която е спечелила сърцето на Иво?&lt;/li&gt;
+  &lt;li&gt;Важни ли са проектите в портфолиото на един начинаещ програмист и как може SoftUni Projects да ни помогне да решим този проблем?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Някои от полезните линкове споделени от Ивайло по време на епизода:
+YouTube канала на Ивайло Папазов: https://www.youtube.com/channel/UCht5jiFQfPT1hc_zRdybPSg
+Подкаст канал: https://www.youtube.com/channel/UCPkKhlR0sXtN5hlB228xuTg
+Седмични front-end новини: https://medium.com/front-end-weekly
+Новини за света на web development: https://www.reddit.com/r/webdev/&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Линк към страницата на семинара &lt;a href=&quot;https://softuni.bg/trainings/2886/it-talks-softuni-podcast-ivaylo-papazov&quot;&gt;тук&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Линк към YouTube &lt;a href=&quot;https://youtu.be/cZUBIfWZZvY&quot;&gt;тук&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Линк към Spotify &lt;a href=&quot;https://open.spotify.com/episode/5k9Rd4f7JPEkRMhqCWSwY4?si=F-F4sXxxTBO6lAfWDIkxpg&quot;&gt;тук&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Линк към SoundCloud &lt;a href=&quot;https://soundcloud.com/user-40054233/it-talks-4-softuni-podcast-with-ivaylo-kenov&quot;&gt;тук&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;500&quot; src=&quot;https://www.youtube.com/embed/cZUBIfWZZvY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name>Antonia Atanasova</name></author><category term="talks" /><summary type="html">IT Talks #2: SoftUni Podcast with Ivaylo Papazov В епизод #2 ще разберете: Кой е Ивайло Папазов? Как можем да си изградим правилен подход към това да учим нещата бързо и ефикасно? Какъв процент от времето си Иво отделя за учене? Кои полезни ресурси препоръчва той, за да учим и да сме в час винаги с най-новото от света на уеб програмирането? Има ли тайна за това как в малък срок от време да успяваме да учим различни езици и технологии? Как Ивайло намира начин да балансира между учене, работа и личен живот? Коя е била последната технология, която е спечелила сърцето на Иво? Важни ли са проектите в портфолиото на един начинаещ програмист и как може SoftUni Projects да ни помогне да решим този проблем?</summary></entry><entry><title type="html">Freelance from A-Z</title><link href="http://localhost:4000/blog/freelance/event/lecture/2018/12/17/freelance-from-a-z.html" rel="alternate" type="text/html" title="Freelance from A-Z" /><published>2018-12-17T23:16:03+02:00</published><updated>2018-12-17T23:16:03+02:00</updated><id>http://localhost:4000/blog/freelance/event/lecture/2018/12/17/freelance-from-a-z</id><content type="html" xml:base="http://localhost:4000/blog/freelance/event/lecture/2018/12/17/freelance-from-a-z.html">&lt;p&gt;&lt;img src=&quot;https://control.bilet.bg/app/web/upload/events/890_e743c211bf6dc6dc8ce45642a72fc4fa.jpg&quot; alt=&quot;freelance&quot; /&gt;&lt;/p&gt;
 
 &lt;center&gt;&lt;h1&gt;Freelance from A-Z&lt;/h1&gt;&lt;/center&gt;
 &lt;center&gt;&lt;h2&gt;YBC Future Skills&lt;/h2&gt;&lt;/center&gt;
@@ -72,8 +134,8 @@ well-developed learning content with presentations, exercises and planned gradua
 
 &lt;p&gt;&lt;img align=&quot;left&quot; width=&quot;100&quot; src=&quot;https://scontent.fsof3-1.fna.fbcdn.net/v/t1.0-9/42792516_10156652159924650_5184798938212859904_o.jpg?_nc_cat=107&amp;amp;_nc_ht=scontent.fsof3-1.fna&amp;amp;oh=6b352feb095a8d4d0715375124525337&amp;amp;oe=5CD3A759&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img align=&quot;left&quot; width=&quot;100&quot; src=&quot;https://scontent.fsof3-1.fna.fbcdn.net/v/t1.0-9/42785597_10156652160049650_7751351530355163136_o.jpg?_nc_cat=101&amp;amp;_nc_ht=scontent.fsof3-1.fna&amp;amp;oh=07b084459c0e0989e472133fd636808d&amp;amp;oe=5CD8D20D&quot; /&gt;&lt;/p&gt;</content><author><name>Antonia Atanasova</name></author><category term="wordpress" /><summary type="html">WordPress Basics for Teachers SoftUni Foundation</summary></entry><entry><title type="html">Intro to HTML and CSS</title><link href="http://localhost:4000/blog/html/css/lecture/course/2018/11/18/freelance-from-a-z-Copy.html" rel="alternate" type="text/html" title="Intro to HTML and CSS" /><published>2018-11-18T23:16:03+02:00</published><updated>2018-11-18T23:16:03+02:00</updated><id>http://localhost:4000/blog/html/css/lecture/course/2018/11/18/freelance-from-a-z%20-%20Copy</id><content type="html" xml:base="http://localhost:4000/blog/html/css/lecture/course/2018/11/18/freelance-from-a-z-Copy.html">&lt;center&gt;&lt;h1&gt;Introduction to HTML and CSS&lt;/h1&gt;&lt;/center&gt;
-&lt;center&gt;&lt;h2&gt;SoftUni&lt;/h2&gt;&lt;/center&gt;
+&lt;p&gt;&lt;img align=&quot;left&quot; width=&quot;100&quot; src=&quot;https://scontent.fsof3-1.fna.fbcdn.net/v/t1.0-9/42785597_10156652160049650_7751351530355163136_o.jpg?_nc_cat=101&amp;amp;_nc_ht=scontent.fsof3-1.fna&amp;amp;oh=07b084459c0e0989e472133fd636808d&amp;amp;oe=5CD8D20D&quot; /&gt;&lt;/p&gt;</content><author><name>Antonia Atanasova</name></author><category term="wordpress" /><summary type="html">WordPress Basics for Teachers SoftUni Foundation</summary></entry><entry><title type="html">Intro to HTML and CSS</title><link href="http://localhost:4000/blog/html/css/lecture/course/2018/11/18/html-and-css-course.html" rel="alternate" type="text/html" title="Intro to HTML and CSS" /><published>2018-11-18T23:16:03+02:00</published><updated>2018-11-18T23:16:03+02:00</updated><id>http://localhost:4000/blog/html/css/lecture/course/2018/11/18/html-and-css-course</id><content type="html" xml:base="http://localhost:4000/blog/html/css/lecture/course/2018/11/18/html-and-css-course.html">&lt;h1 class=&quot;center&quot;&gt;Introduction to HTML and CSS&lt;/h1&gt;
+&lt;h2 class=&quot;center&quot;&gt;SoftUni&lt;/h2&gt;
 
 &lt;p&gt;This January we are preparing one special crash course - Introduction to HTML and CSS. The course will introduce the 
 technologies and will finish with workshop - How to build a landing page?
