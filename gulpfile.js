@@ -35,20 +35,20 @@ gulp.task('jekyll', function () {
 
 gulp.task('serve', function () {
 
-	//browserSync.init({
-	//proxy: {
-	//target: "http://127.0.0.1:4000/"
-	//}
-	//});
+	browserSync.init({
+		proxy: {
+			target: "http://127.0.0.1:4000/"
+		}
+	});
 
-	//browserSync.init({
-	//server: {
-	//baseDir: "./docs/"
-	//}
-	//});
+	browserSync.init({
+		server: {
+			baseDir: "./docs/"
+		}
+	});
 
 	gulp.watch(path.SCSS_SRC, ['scss']);
-	//gulp.watch(path.HTML_SRC, ['jekyll']);
+	gulp.watch(path.HTML_SRC, ['jekyll']);
 	gulp.watch(path.HTML_SRC).on('change', browserSync.reload);
 
 });

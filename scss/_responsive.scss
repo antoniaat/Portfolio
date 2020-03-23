@@ -1,5 +1,8 @@
-@media only screen and (max-width: 600px) {
-  //Blog page
+@include bp(phone) {
+  .talk-container {
+    display: block;
+  }
+
   .listing {
     display: block;
 
@@ -13,7 +16,6 @@
     display: none;
   }
 
-  //Menu
   .navigation-bar {
     width: 75%;
   }
@@ -22,7 +24,6 @@
     font-size: 1.4rem;
   }
 
-  //About page
   .site-content {
     padding: 2em;
     font-size: 1.2em;
@@ -32,12 +33,9 @@
     margin-bottom: 0;
   }
 
-  //Experience page
   .desc {
     text-align: left;
   }
-
-  //Projects page
 
   .item-grid {
     margin: 0 auto;
@@ -50,8 +48,9 @@
 }
 
 @media only screen and (max-width: 350px) {
-  //Blog posts - hide the tags and the author name
-  .listing .post-tag, .listing a .author {
+
+  .listing .post-tag,
+  .listing a .author {
     display: none;
   }
 }

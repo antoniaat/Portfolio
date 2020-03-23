@@ -31,9 +31,11 @@
     &:after {
       transform: scale(2) translateX(0%) translateY(0%) translateZ(0) rotate(-28deg);
     }
+
     .item-image {
       transform: scale(1.2) translateZ(0);
     }
+
     .item-text {
       opacity: 1;
       transform: translateY(0);

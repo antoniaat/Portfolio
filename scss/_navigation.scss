@@ -9,8 +9,9 @@
   justify-content: center;
   background: rgba(#fff, 0.9);
 
-  .fas, .far {
-      padding-right: 10px;
+  .fas,
+  .far {
+    padding-right: 10px;
   }
 
   ul {
@@ -44,7 +45,8 @@
     margin-right: 1em;
   }
 
-  a:hover, a:hover i {
+  a:hover,
+  a:hover i {
     cursor: pointer;
     background: #444;
     color: #fff;
@@ -86,9 +88,7 @@
     margin-right: 1rem;
   }
 
-  &#nav-toggle-left {
-
-  }
+  &#nav-toggle-left {}
 
   &#nav-toggle-right {
     left: inherit;
@@ -96,7 +96,7 @@
   }
 }
 
-#nav-main-toggle:checked + .site-header {
+#nav-main-toggle:checked+.site-header {
   .navigation {
     display: flex;
     z-index: 1000;
@@ -111,4 +111,3 @@
     animation: jump 0.1s 1 ease-in-out forwards;
   }
 }
-

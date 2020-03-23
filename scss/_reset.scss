@@ -1,24 +1,14 @@
-/* 
- * Whitespace Reset */
-
 * {
-	padding: 0;
-	margin: 0;
+    padding: 0;
+    margin: 0;
 }
 
-/* 
- * Box-sizing fix */
 html {
-	box-sizing: border-box;
+    box-sizing: border-box;
 }
 
-*, *:before, *:after {
-	box-sizing: inherit;
-}
-
-/* 
- * BrowserSync Notification */
-
-#__bs_notify__ {
-	display: none !important;
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
 }

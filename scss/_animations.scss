@@ -25,8 +25,7 @@
 }
 
 @keyframes navitemin {
-  from {
-  }
+  from {}
 
   to {
     opacity: 1;
@@ -60,22 +59,23 @@
   0% {
     transform: rotate(0deg);
   }
+
   100% {
     transform: rotate(-360deg);
   }
 }
 
-
-
 @keyframes criss-cross-right {
   0% {
     right: -20px;
   }
+
   50% {
     right: 50%;
     width: 20px;
     height: 20px;
   }
+
   100% {
     right: 50%;
     width: 375px;
@@ -87,11 +87,13 @@
   0% {
     right: -20px;
   }
+
   50% {
     right: 50%;
     width: 20px;
     height: 20px;
   }
+
   100% {
     right: 50%;
     width: 375px;
@@ -104,11 +106,13 @@
   0% {
     left: -20px;
   }
+
   50% {
     left: 50%;
     width: 20px;
     height: 20px;
   }
+
   100% {
     left: 50%;
     width: 375px;
@@ -116,16 +120,17 @@
   }
 }
 
-
 @-webkit-keyframes criss-cross-left {
   0% {
     left: -20px;
   }
+
   50% {
     left: 50%;
     width: 20px;
     height: 20px;
   }
+
   100% {
     left: 50%;
     width: 375px;

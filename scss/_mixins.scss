@@ -1,29 +1,19 @@
-$breakpoints: (
-        "phone": 400px,
-        "phone-wide": 480px,
-        "phablet": 560px,
-        "tablet-small": 640px,
-        "tablet": 768px,
-        "tablet-wide": 1024px,
-        "desktop": 1248px,
-        "desktop-wide": 1440px
-);
+$breakpoints: ('phone': (max-width: 600px),
+    'tablet': (max-width: 900px),
+    'mobile': (max-width: 1024px),
+    'desktop': (min-width: 1025px),
+    'large': (min-width: 1600px),
+) !default;
 
-@mixin mq($width, $type: min) {
-  @if map_has_key($breakpoints, $width) {
-
-    $width: map_get($breakpoints, $width);
-
-    @if $type == max {
-      $width: $width - 1px;
+@mixin bp($breakpoint) {
+    @if map-has-key($breakpoints, $breakpoint) {
+        @media #{inspect(map-get($breakpoints, $breakpoint))} {
+            @content;
+        }
     }
 
-    $parent: &;
-
-    @media only screen and (#{$type}-width: $width) {
-      @at-root #{$parent} {
-        @content;
-      }
+    @else {
+        @warn "Unfortunately, no value could be retrieved from `#{$breakpoint}`. "
+        +"Available breakpoints are: #{map-keys($breakpoints)}.";
     }
-  }
 }

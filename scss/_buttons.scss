@@ -21,7 +21,8 @@ $green: #607d89;
   }
 }
 
-button:before, button:after {
+button:before,
+button:after {
   content: "";
   position: absolute;
   top: 0;
@@ -30,12 +31,10 @@ button:before, button:after {
   bottom: 0;
   border: 4px solid transparent;
   will-change: transform;
-  transition: -webkit-transform 0.3s ease;
   transition: transform 0.3s ease, -webkit-transform 0.3s ease;
   pointer-events: none;
   transform: translateZ(0);
 }
-
 button:before {
   border-color: $green transparent;
   transform: skew(-81deg, 0);
@@ -47,12 +46,12 @@ button:after {
   transition: -webkit-transform 0.4s;
   transition: transform 0.4s, -webkit-transform 0.4s;
 }
-
 button:hover {
   color: $green;
   cursor: pointer;
 }
 
-button:hover:before, button:hover:after {
+button:hover:before,
+button:hover:after {
   transform: skew(0, 0);
 }
