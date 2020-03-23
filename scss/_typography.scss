@@ -21,15 +21,33 @@ html {
   }
 }
 
-body, table, th, td, form, input, textarea, option, select {
+body,
+table,
+th,
+td,
+form,
+input,
+textarea,
+option,
+select {
   font: inherit;
 }
 
-.site-description, .site-title, h1, h2, h3, h4, h5, h6 {
+.site-description,
+.site-title,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: var(--font-size-headings);
 }
 
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
   line-height: 1.2;
   padding-bottom: 0.5em;
   text-transform: uppercase;
@@ -39,20 +57,24 @@ h1, h2, h3, h4 {
 
 $headings: (h1: 2.441em, h2: 1.953em, h3: 1.563em, h5: 1em, h6: 1em);
 
-@each $heading, $size in $headings {
+@each $heading,
+$size in $headings {
   #{$heading} {
     font-size: $size;
   }
 }
 
-h5, h6 {
+h5,
+h6 {
   font-family: 'Open sans', sans-serif;
   font-weight: 500;
   font-size: 1.2em;
   color: #444;
 }
 
-p, ul, ol {
+p,
+ul,
+ol {
   padding-bottom: 1.5em;
 }
 
@@ -60,12 +82,15 @@ li {
   list-style-position: inside;
 }
 
-.fas, .fa {
+.fas,
+.fa {
   padding-right: 10px;
   color: var(--color-text-main);
 }
 
-a, b, .green {
+a,
+b,
+.green {
   color: var(--color-green);
 }
 
