@@ -1,0 +1,13 @@
+<div class="talk-container">
+    <iframe width="70%" height="315" src="{{ include.url }}" frameborder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <article class='left'>
+        {% if include.link %}
+        <p>Лекцията е част от <a href="{{ include.link }}">{{ include.text }}</a></p>
+        {% endif %}
+
+        <h3>{{ include.header }}</h3>
+        <p>{{ include.content }}</p>
+    </article>
+</div>
