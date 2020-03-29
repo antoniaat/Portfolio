@@ -5,14 +5,16 @@ description: If you love your business as much as I love my job, we're off to a 
 
 email: antoniyaat@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://antoniyaat.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://antoniyaat.github.io" 
 
 github_username: antoniyaat
 
 future: true
 markdown: kramdown
+
 plugins:
 - jekyll-feed
+- jekyll-paginate
 
 destination: docs
 
@@ -24,3 +26,6 @@ exclude:
 - docs
 - node_modules
 - scss
+
+paginate: 6
+paginate_path: "/blog/page:num/"

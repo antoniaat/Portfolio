@@ -6,7 +6,7 @@ description: "В епизод #2 ще разберете: Как можем да
 date: 2020-02-27 19:00:00 +0200
 author: Antonia Atanasova
 img: ../images/post-images/podcast-papazov.jpg
-categories: [programming, podcast, event, lecture, education, softuni, ittalks, talk, itpodcast, softunipodcast]
+categories: [blog, programming, podcast, event, lecture, education, softuni, ittalks, talk, itpodcast, softunipodcast]
 tags: [talks]
 ---
 
