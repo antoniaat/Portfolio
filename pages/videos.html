@@ -48,3 +48,28 @@ permalink: /videos/
 проверки - минава се през концепцията за какво ни служат те, къде в програмирането намират приложение, какво
 е if-else проверка, как можем да зададем поредица от проверки и да проверяваме за много условия и се решават
 задачи, които имат за цел да упражнят работата с прости проверки.' link='https://softuni.bg/trainings/2590/programming-basics-with-javascript-november-2019' text='Безплатният курс "Programming Basics with JavaScript" в СофтУни'%}
+
+<!-- pagination
+<div class="pagination">
+    {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
+    {% else %}
+    <span>&laquo; Prev</span>
+    {% endif %}
+
+    {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+    <em>{{ page }}</em>
+    {% elsif page == 1 %}
+    <a href="/">{{ page }}</a>
+    {% else %}
+    <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+    {% endfor %}
+
+    {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+    {% else %}
+    <span>Next &raquo;</span>
+    {% endif %}
+</div> -->

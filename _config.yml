@@ -5,9 +5,9 @@ description: If you love your business as much as I love my job, we're off to a 
 
 email: antoniyaat@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://antoniyaat.github.io" 
+url: "https://antoniaat.github.io" 
 
-github_username: antoniyaat
+github_username: antoniaat
 
 future: true
 markdown: kramdown
@@ -28,4 +28,4 @@ exclude:
 - scss
 
 paginate: 6
-paginate_path: "/blog/page:num/"
+paginate_path: "/blog/:num/"

@@ -1,0 +1,12 @@
+<div class="item">
+    <div class="item-image">
+        <img src=" {{ include.img }}" alt="{{ include.imgAlt }}" />
+    </div>
+    <div class="item-text">
+        <div class="item-text-wrapper">
+            <p class="item-text-dek">{{ include.technologies}}</p>
+            <h2 class="item-text-title">{{ include.projectName }}</h2>
+        </div>
+    </div>
+    <a class="item-link" target="_blank" href="{{ include.link }}">{{ include.projectName }}</a>
+</div>
