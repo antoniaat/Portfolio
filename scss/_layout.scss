@@ -14,25 +14,6 @@ body {
   width: 100%;
 }
 
-// body.login {
-//   height: 100vh;
-//   overflow: hidden;
-//   padding-top: 0;
-//   display: flex;
-
-//   .site {
-//     flex: 1 0 auto;
-//     background: #EEE;
-//     border: 4rem solid white;
-//     display: flex;
-//     align-items: center;
-//     justify-content: space-between;
-
-//     #{&}-header {
-//       display: none;
-//     }
-//   }
-// }
 .center {
   text-align: center;
 }
@@ -41,11 +22,15 @@ body {
   margin-top: 2rem;
 }
 
-.skills ul li {
-  text-decoration: none;
-  display: block;
-  line-height: 2em;
-  color: var(--color-secondary-main);
+.skills {
+  margin: 3em 0;
+
+  ul li {
+    text-decoration: none;
+    display: block;
+    line-height: 2em;
+    color: var(--color-secondary-main);
+  }
 }
 
 .talk-container {
