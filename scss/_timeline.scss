@@ -1,49 +1,57 @@
+@import './variables';
 @import './breakpoints';
-
-
 
 .timeline {
   position: relative;
-  width: 660px;
   margin: 20px auto 0;
   padding: 1em 0;
   list-style-type: none;
 
-  @include for-phone-only {
-    background: red;
+  @include for-tablet-landscape-up {
+    min-width: 660px;
   }
 
   &::before {
-    position: absolute;
-    left: 50%;
-    top: 0;
-    content: ' ';
-    display: block;
-    width: 6px;
-    height: 100%;
-    margin-left: -3px;
-    background: rgb(80, 80, 80);
-    background: linear-gradient(to bottom, rgba(80, 80, 80, 0) 0%, rgb(80, 80, 80) 8%, rgb(80, 80, 80) 92%, rgba(80, 80, 80, 0) 100%);
-    z-index: 5;
+    @include for-tablet-landscape-up {
+      display: block;
+      position: absolute;
+      left: 50%;
+      top: 0;
+      width: 6px;
+      height: 100%;
+      margin-left: -3px;
+      background: linear-gradient(to bottom, rgba(80, 80, 80, 0) 0%, rgb(80, 80, 80) 8%, rgb(80, 80, 80) 92%, rgba(80, 80, 80, 0) 100%);
+      z-index: 5;
+      content: ' ';
+    }
   }
 
   li {
     padding: 1em 0;
 
     &::after {
-      content: "";
       display: block;
       height: 0;
       clear: both;
       visibility: hidden;
+      content: "";
     }
   }
 
   .direction-l {
-    position: relative;
-    width: 296px;
-    float: left;
     text-align: right;
+
+    @include for-tablet-landscape-up {
+      position: relative;
+      width: 355px;
+      float: left;
+    }
+
+    // @include for-tablet-landscape-up {
+    //   position: relative;
+    //   left: 50%;
+    //   padding-left: 33px;
+    // }
 
     .time-wrapper {
       float: left;
@@ -51,92 +59,92 @@
 
     .flag {
       box-shadow: -1px 1px 1px rgba(0, 0, 0, 0.15), 0 0 1px rgba(0, 0, 0, 0.15);
-    }
-  }
 
-  .direction-r {
-    position: relative;
-    width: 296px;
-    float: right;
-
-    .time-wrapper {
-      float: right;
-    }
-
-    .flag {
-      box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15), 0 0 1px rgba(0, 0, 0, 0.15);
+      &:after {
+        position: absolute;
+        left: 100%;
+        top: 50%;
+        height: 0;
+        width: 0;
+        margin-top: -8px;
+        border: 8px solid transparent;
+        border-left-color: rgb(248, 248, 248);
+        pointer-events: none;
+        content: '';
+      }
     }
   }
 
   .flag-wrapper {
-    position: relative;
     display: inline-block;
+    position: relative;
     text-align: center;
   }
 
   .flag {
-    position: relative;
     display: inline;
+    position: relative;
     background: rgb(248, 248, 248);
     padding: 6px 10px;
     border-radius: 5px;
+    font-size: 16px;
     font-weight: 600;
     text-align: left;
   }
 
+  .direction-r {
+    @include for-tablet-landscape-up {
+      position: relative;
+      width: 355px;
+      left: 50%;
+      padding-left: 33px;
+    }
 
-  .direction-r .direction-l .flag:before,
-  .direction-r .flag:before {
-    position: absolute;
-    top: 50%;
-    right: -40px;
-    content: ' ';
-    display: block;
-    width: 12px;
-    height: 12px;
-    margin-top: -10px;
-    background: #fff;
-    border-radius: 10px;
-    border: 4px solid #607D89;
-    z-index: 10;
-  }
+    .flag {
+      box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15), 0 0 1px rgba(0, 0, 0, 0.15);
 
-  .direction-r .flag:before {
-    left: -40px;
-  }
+      &::before {
+        @include for-tablet-landscape-up {
+          position: absolute;
+          left: -39px;
+          width: 12px;
+          height: 12px;
+          background: #fff;
+          border-radius: 10px;
+          border: 4px solid $blue-500;
+          z-index: 10;
+          content: '';
+        }
 
-  .direction-l .flag:after {
-    content: "";
-    position: absolute;
-    left: 100%;
-    top: 50%;
-    height: 0;
-    width: 0;
-    margin-top: -8px;
-    border: 8px solid transparent;
-    border-left-color: rgb(248, 248, 248);
-    pointer-events: none;
-  }
+        &::after {
+          position: absolute;
+          right: 100%;
+          top: 50%;
+          height: 0;
+          width: 0;
+          margin-top: -8px;
+          border: 8px solid transparent;
+          border-right-color: rgb(248, 248, 248);
+          pointer-events: none;
+          content: '';
+        }
+      }
+    }
 
-  .direction-r .flag:after {
-    content: "";
-    position: absolute;
-    right: 100%;
-    top: 50%;
-    height: 0;
-    width: 0;
-    margin-top: -8px;
-    border: 8px solid transparent;
-    border-right-color: rgb(248, 248, 248);
-    pointer-events: none;
+    .desc {
+      margin: 1em 0 0 0.75em;
+    }
+
+    .time-wrapper {
+      float: right;
+    }
   }
 
   .time-wrapper {
     display: inline;
-
     line-height: 1em;
-    font-size: 0.66666em;
-    color: #607D89;
+    font-size: 10px;
+    color: $blue-500;
     vertical-align: middle;
   }
 
@@ -150,108 +158,5 @@
     margin: 1em 0.75em 0 0;
     font-size: 1em;
     line-height: 1.5em;
-  }
-
-  .direction-r .desc {
-    margin: 1em 0 0 0.75em;
-  }
-}
-
-@include bp(phone) {
-  .timeline {
-    width: 100%;
-    padding: 4em 0 1em 0;
-  }
-
-  .timeline li {
-    padding: 2em 0;
-  }
-
-  .direction-l,
-  .direction-r {
-    float: none;
-    width: 100%;
-
-    text-align: center;
-  }
-
-  .flag-wrapper {
-    text-align: center;
-  }
-
-  .flag {
-    background: rgb(255, 255, 255);
-    z-index: 15;
-  }
-
-  .direction-l .flag:before,
-  .direction-r .flag:before {
-    position: absolute;
-    top: -30px;
-    left: 50%;
-    content: ' ';
-    display: block;
-    width: 12px;
-    height: 12px;
-    margin-left: -9px;
-    background: #fff;
-    border-radius: 10px;
-    border: 4px solid rgb(255, 80, 80);
-    z-index: 10;
-  }
-
-  .direction-l .flag:after,
-  .direction-r .flag:after {
-    content: "";
-    position: absolute;
-    left: 50%;
-    top: -8px;
-    height: 0;
-    width: 0;
-    margin-left: -8px;
-    border: 8px solid transparent;
-    border-bottom-color: rgb(255, 255, 255);
-    pointer-events: none;
-  }
-
-  .time-wrapper {
-    display: block;
-    position: relative;
-    margin: 4px 0 0 0;
-    z-index: 14;
-  }
-
-  .direction-l .time-wrapper {
-    float: none;
-  }
-
-  .direction-r .time-wrapper {
-    float: none;
-  }
-
-  .desc {
-    position: relative;
-    margin: 1em 0 0 0;
-    padding: 1em;
-    background: rgb(245, 245, 245);
-    box-shadow: 0 0 1px rgba(0, 0, 0, 0.20);
-    z-index: 15;
-  }
-
-  .direction-l .desc,
-  .direction-r .desc {
-    position: relative;
-    margin: 1em 1em 0 1em;
-    padding: 1em;
-
-    z-index: 15;
-  }
-}
-
-@media screen and (min-width: 400px) and (max-width: 660px) {
-
-  .direction-l .desc,
-  .direction-r .desc {
-    margin: 1em 4em 0 4em;
   }
 }
