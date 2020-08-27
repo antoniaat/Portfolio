@@ -1,4 +1,4 @@
-# Personal Website - [antoniyaat.com](http://antoniaat.com)
+# Personal Website - [antoniaat.com](http://antoniaat.com)
 
 
 >  Personal website including full setup for **[Jekyll](https://jekyllrb.com/)**, **[GulpJS](https://github.com/gulpjs/gulp)** & **[SASS](https://sass-lang.com/)**.
