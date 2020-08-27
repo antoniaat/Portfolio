@@ -43,15 +43,9 @@
 
     @include for-tablet-landscape-up {
       position: relative;
+      left: 9%;
       width: 355px;
-      float: left;
     }
-
-    // @include for-tablet-landscape-up {
-    //   position: relative;
-    //   left: 50%;
-    //   padding-left: 33px;
-    // }
 
     .time-wrapper {
       float: left;
