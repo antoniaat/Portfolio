@@ -1,9 +1,17 @@
+@import './breakpoints';
+
+
+
 .timeline {
   position: relative;
   width: 660px;
   margin: 20px auto 0;
   padding: 1em 0;
   list-style-type: none;
+
+  @include for-phone-only {
+    background: red;
+  }
 
   &::before {
     position: absolute;
