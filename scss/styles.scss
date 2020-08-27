@@ -14,6 +14,7 @@ $fa-font-path: '../fontawesome/webfonts';
 @import 'buttons';
 
 @import 'layout';
+@import 'pagination';
 @import 'navigation';
 
 @import 'listing';
@@ -23,3 +24,7 @@ $fa-font-path: '../fontawesome/webfonts';
 @import 'site-header';
 
 @import 'responsive';
+
+// Styles for pages
+// Page: Videos
+@import 'pages/videos/talk-container.scss';

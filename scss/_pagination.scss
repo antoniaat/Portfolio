@@ -1,0 +1,23 @@
+@import './variables';
+
+.pagination {
+    text-align: center;
+    margin: 2em;
+    font-size: 1.2em;
+
+    a,
+    span {
+        display: inline-block;
+        padding: 7px 18px;
+        border: 1px solid $grey-100;
+        margin: 0 -2px;
+        background: #fff;
+    }
+
+    a {
+        &:hover {
+            background: $grey-200;
+            color: $grey-700;
+        }
+    }
+}

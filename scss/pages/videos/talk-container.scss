@@ -1,0 +1,15 @@
+
+.talk-container {
+    display: flex;
+    justify-content: space-between;
+    border-radius: 12px;
+    margin: 2em 0;
+  
+    article {
+      padding-left: 2em;
+  
+      h3 {
+        text-align: left;
+      }
+    }
+  }
