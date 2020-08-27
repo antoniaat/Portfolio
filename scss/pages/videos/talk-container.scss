@@ -1,15 +1,23 @@
+@import '../../breakpoints';
 
 .talk-container {
-    display: flex;
-    justify-content: space-between;
     border-radius: 12px;
-    margin: 2em 0;
-  
-    article {
-      padding-left: 2em;
-  
-      h3 {
-        text-align: left;
-      }
+    margin: 20px;
+
+    @include for-tablet-portrait-up {
+        display: flex;
+        justify-content: space-between;
+        margin: 20px 0;
+
     }
-  }
+
+    .talk-container-content {
+        @include for-tablet-portrait-up {
+            padding-left: 20px;
+        }
+
+        .talk-container-title {
+            text-align: left;
+        }
+    }
+}

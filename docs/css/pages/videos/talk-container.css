@@ -1,2 +1,2 @@
-.talk-container{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;border-radius:12px;margin:2em 0}.talk-container article{padding-left:2em}.talk-container article h3{text-align:left}
+.talk-container{border-radius:12px;margin:20px}@media (min-width:600px){.talk-container{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;margin:20px 0}.talk-container .talk-container-content{padding-left:20px}}.talk-container .talk-container-content .talk-container-title{text-align:left}
 /*# sourceMappingURL=../../map/pages/videos/talk-container.css.map */

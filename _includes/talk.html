@@ -2,12 +2,12 @@
     <iframe width="70%" height="315" src="{{ include.url }}" frameborder="0"
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-    <article class='left'>
+    <article class='talk-container-content'>
         {% if include.link %}
-        <p>Лекцията е част от <a href="{{ include.link }}">{{ include.text }}</a></p>
+        <p class="talk-container-additional-link">Лекцията е част от <a href="{{ include.link }}">{{ include.text }}</a></p>
         {% endif %}
 
-        <h3>{{ include.header }}</h3>
-        <p>{{ include.content }}</p>
+        <h3 class="talk-container-title">{{ include.header }}</h3>
+        <p class="talk-container-text">{{ include.content }}</p>
     </article>
 </section>
